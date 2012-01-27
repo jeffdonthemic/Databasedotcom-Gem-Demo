@@ -1,5 +1,5 @@
-client_id: 3MVG9QDx8IX8nP5QtolWGByRamikpmWftrl6A2XBsYMigj8OLlrxQY5q6xPL3dYK8QchQ8XgRJ3qOZZrcRhmt
-client_secret: 879030361225066557
-username: chowfinder@jeffdouglas.com
-password: 9KBe67dn2TLcxxvI3lJWp6uTC27ohhdj6fr
+client_id: your-client
+client_secret: your-secret
+username: your-username
+password: your-password-and-token
 debugging: false
